@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Main_back_color">#D5F7E6</color>
+    <color name="Second_back_color">#9FE1C0</color>
+    <color name="Bttn_back">#69D29E</color>
+    <color name="Bttn_front">#F3FFFA</color>
+</resources>
